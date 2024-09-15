@@ -75,7 +75,7 @@ body {
         position: relative;
         background-image: url(../images/slider-img.jpg);
         padding: 45px 0;
-        background-size: cover;
+        background-size: 50%; /* or specific pixel values like '300px' */
     }
 
     .nav_section {
